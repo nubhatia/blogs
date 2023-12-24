@@ -4,9 +4,8 @@
 - **Just Thoughts:** Random musings, reflections, and personal insights on diverse subjects.
 
 
-### Credit
+### Credits
+[Setting Up Blogging with Jekyll](https://www.youtube.com/watch?v=EmSrQCDsMv4)
 
-
-
-### To-do list  
-- Use Jekyll to host blog
+### Quick Links
+[GitHub Themes](https://pages.github.com/themes/)
