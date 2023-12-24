@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="547ec582-26d4-4e70-9ca1-c9b6378e8275" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-12-23-Docker.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-12-23-Docker.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/docker1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/docker1.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +74,7 @@
       <updated>1703228378601</updated>
       <workItem from="1703228379716" duration="2640000" />
       <workItem from="1703373510870" duration="238000" />
-      <workItem from="1703373791102" duration="4983000" />
+      <workItem from="1703373791102" duration="6081000" />
     </task>
     <servers />
   </component>
