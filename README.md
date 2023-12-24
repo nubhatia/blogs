@@ -3,5 +3,10 @@
 - **Cheat Sheet:** Quick reference guides and cheat sheets for handy reminders and rapid information retrieval.
 - **Just Thoughts:** Random musings, reflections, and personal insights on diverse subjects.
 
+
+### Credit
+
+
+
 ### To-do list  
-- Use hugo to host blog
+- Use Jekyll to host blog
